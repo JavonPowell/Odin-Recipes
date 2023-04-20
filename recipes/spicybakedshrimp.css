@@ -1,0 +1,20 @@
+*{
+    background-color: tan;
+    text-align: center;
+}
+h2{
+    font-size: bold;
+}
+p{
+    font-style: bold;
+    font-size: 25px;
+    
+}
+li{
+    font-size: 25px;
+   
+}
+ul.myUL{
+    display: inline;
+    text-align: center;
+}
